@@ -1,0 +1,4 @@
+config.conf
+.vscode/*
+__pycache__/*
+oauthtest.py

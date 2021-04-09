@@ -1,0 +1,11 @@
+[general]
+streamLocation = https://example.com/hls/stream.m3u8
+appSecret = abcdefghijklmnopqrstuvwxyz
+
+[discord]
+client = 1234567890
+secret = abcdefghijklmnopqrstuvwxyz
+callback = https://example.com/watch/callback/
+guild = 1234567890
+requireRole = True
+role = 1234567890
